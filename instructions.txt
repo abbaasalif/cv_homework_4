@@ -1,0 +1,5 @@
+To run the code:
+To install the necessary dependencies:
+python install_requirements.py
+To run the code:
+python person_depth.py -gt cv
